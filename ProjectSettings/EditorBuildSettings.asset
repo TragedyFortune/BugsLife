@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Menus/MainMenu.unity
     guid: ecfeb04ee45a64440afbeeb56b30c8bd
   - enabled: 1
-    path: Assets/Scenes/HubWorld/HubWorld.unity
+    path: Assets/Scenes/DesmondSceneNew/HubWorld/HubWorld.unity
     guid: bf33b3fd87dfe784fb538dc858c97012
   - enabled: 1
     path: Assets/Scenes/Levels/Level01.unity
